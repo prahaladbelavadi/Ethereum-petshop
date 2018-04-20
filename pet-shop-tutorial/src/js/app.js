@@ -106,6 +106,6 @@ App = {
 
 $(function() {
   $(window).load(function() {
-    App.init(initWeb3());
+    App.init();
   });
 });
