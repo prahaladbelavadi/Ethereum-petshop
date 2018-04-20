@@ -10,6 +10,7 @@ Normally smart contracts once executed stay on the Mainnet of ethereum blockchai
 
 Cheers
 
+![Image of petshop](https://image-store.slidesharecdn.com/0e1fab56-703e-4ad7-a777-b279bcfcd235-original.png)
 
 References:
 - http://truffleframework.com/tutorials/ethereum-overview
